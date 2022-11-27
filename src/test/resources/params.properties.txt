@@ -1,0 +1,10 @@
+# Mobile application
+apkDir=src/test/resources
+apkName=app-test-QA.apk
+
+# Appium data
+AppiumServerIP=127.0.0.1
+AppiumServerPort=4723
+
+#Device
+device=device
